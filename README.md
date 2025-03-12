@@ -16,9 +16,11 @@ This project provides insights into the **Indian startup ecosystem** by analyzin
 **Interactive Visuals** → Charts, heatmaps, pie charts, and bar graphs  
 
 ---
-
+ 
 ## 🚀 Live Demo
-🔗 [Click here to access the deployed Streamlit app](#) *(link here)*  
+
+🔗 [Click here to access the deployed Streamlit app](https://startup-funding-dashboard.streamlit.app/)
+
 
 ---
 
