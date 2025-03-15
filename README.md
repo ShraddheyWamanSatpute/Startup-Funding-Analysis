@@ -1,4 +1,4 @@
-# 🚀 Startup Funding Analysis
+#  Startup Funding Analysis
 
 A **Streamlit-powered interactive web application** to analyze Indian startup funding trends, investor activity, and industry insights.
 
@@ -6,10 +6,10 @@ A **Streamlit-powered interactive web application** to analyze Indian startup fu
 
 ---
 
-## 📂 Project Overview
+##  Project Overview
 This project provides insights into the **Indian startup ecosystem** by analyzing **funding patterns, investor trends, and sector-wise growth**. Built using **Streamlit, Pandas, and Plotly**, it offers an interactive experience to explore the dataset with **intuitive visualizations**.
 
-### 💡 Key Features
+###  Key Features
 **General Analysis** → Funding trends, city-wise analysis, top startups  
 **Startup Analysis** → Detailed funding insights for selected startups  
 **Investor Analysis** → Track investments by a specific investor  
@@ -19,7 +19,7 @@ This project provides insights into the **Indian startup ecosystem** by analyzin
  
 ## Live Demo
 
-🔗 [Click here to access the deployed Streamlit app](https://startup-funding-dashboard.streamlit.app/)
+ [Click here to access the deployed Streamlit app](https://startup-funding-dashboard.streamlit.app/)
 
 
 ---
